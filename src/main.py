@@ -1,5 +1,7 @@
 import argparse
 
+from twitter import search_tweets
+
 if __name__ == "__main__":
     # parse command line arguments
     parser = argparse.ArgumentParser()
@@ -10,6 +12,6 @@ if __name__ == "__main__":
 
     # run task requested by user
     if args.twitter:
-        print("Twitter")
+        search_tweets()
     elif args.euro2020:
         print("EURO2020")

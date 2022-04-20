@@ -1,0 +1,17 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+
+[dev-packages]
+autopep8 = "*"
+flake8 = "*"
+
+[scripts]
+twitter = "python ./src/main.py --twitter"
+euro2020 = "python ./src/main.py --euro2020"
+
+[requires]
+python_version = "3.9"

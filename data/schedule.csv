@@ -1,0 +1,52 @@
+datetime_utc,team_1,team_2
+2021-06-11T19:00:00,turkey,italy
+2021-06-12T11:00:00,wales,switzerland
+2021-06-12T18:00:00,belgium,russia
+2021-06-12T16:00:00,denmark,finland
+2021-06-13T19:00:00,netherlands,ukraine
+2021-06-13T15:00:00,austria,north macedonia
+2021-06-13T14:00:00,england,croatia
+2021-06-14T15:00:00,poland,slovakia
+2021-06-14T14:00:00,scotland,czech republic
+2021-06-14T19:00:00,spain,sweden
+2021-06-15T19:00:00,france,germany
+2021-06-15T16:00:00,hungary,portugal
+2021-06-16T19:00:00,italy,switzerland
+2021-06-16T14:00:00,turkey,wales
+2021-06-16T12:00:00,finland,russia
+2021-06-17T16:00:00,denmark,belgium
+2021-06-17T19:00:00,netherlands,austria
+2021-06-17T12:00:00,ukraine,north macedonia
+2021-06-18T12:00:00,sweden,slovakia
+2021-06-18T20:00:00,england,scotland
+2021-06-18T17:00:00,croatia,czech republic
+2021-06-19T19:00:00,spain,poland
+2021-06-19T16:00:00,portugal,germany
+2021-06-19T12:00:00,hungary,france
+2021-06-20T16:00:00,italy,wales
+2021-06-20T14:00:00,switzerland,turkey
+2021-06-21T18:00:00,finland,belgium
+2021-06-21T19:00:00,russia,denmark
+2021-06-21T16:00:00,north macedonia,netherlands
+2021-06-21T15:00:00,ukraine,austria
+2021-06-22T20:00:00,czech republic,england
+2021-06-22T20:00:00,croatia,scotland
+2021-06-23T15:00:00,sweden,poland
+2021-06-23T16:00:00,slovakia,spain
+2021-06-23T19:00:00,germany,hungary
+2021-06-23T19:00:00,portugal,france
+2021-06-26T16:00:00,wales,denmark
+2021-06-26T20:00:00,italy,austria
+2021-06-27T19:00:00,belgium,portugal
+2021-06-27T16:00:00,netherlands,czech republic
+2021-06-28T16:00:00,croatia,spain
+2021-06-28T18:00:00,france,switzerland
+2021-06-29T17:00:00,england,germany
+2021-06-29T20:00:00,sweden,ukraine
+2021-07-02T15:00:00,switzerland,spain
+2021-07-02T19:00:00,belgium,italy
+2021-07-03T19:00:00,ukraine,england
+2021-07-03T14:00:00,czech republic,denmark
+2021-07-06T20:00:00,italy,spain
+2021-07-07T20:00:00,england,denmark
+2021-07-11T20:00:00,italy,england

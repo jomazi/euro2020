@@ -5,6 +5,7 @@ name = "pypi"
 
 [packages]
 twarc = "*"
+pandas = "*"
 
 [dev-packages]
 autopep8 = "*"
